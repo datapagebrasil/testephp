@@ -4,11 +4,11 @@
 
 - Os locais que estiverem '???' estão aguardando você completar o comando para o sucesso do mesmo.
 
-- Para as evidencias, salvar no arqivo **evidencias.doc** (na raiz), ou semelhante, e colocar o número da atividade e os prints e informações necessárias, enviando todas em um unico arquivo.
+- Para as evidências, salvar no arqivo **evidencias.doc** (na raiz), ou semelhante, e colocar o número da atividade, prints e informações necessárias, enviando todas em um único arquivo.
 
 ## O que será analisado
 
-- As evidências (prints) quando atividade não gerar código e o próprio código.
+- As evidências (prints) quando a atividade não gerar código e o próprio código.
 
 - Reutilização / duplicação de código / funções.
 
@@ -78,6 +78,6 @@ Videos de explicação:
 # Parabéns
 
 Obrigado, por participar do nosso processo seletivo.
-Favor em contato com o responsável pelo processo seletivo
+Favor entrar em contato com o responsável pelo processo seletivo.
 
 Equipe Datapage
