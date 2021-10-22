@@ -4,7 +4,7 @@
 
 - Os locais que estiverem '???' estão aguardando você completar o comando para o sucesso do mesmo.
 
-- Para as evidências, salvar no arqivo **evidencias.doc** (na raiz), ou semelhante, e colocar o número da atividade, prints e informações necessárias, enviando todas em um único arquivo.
+- Para as evidências, salvar no arquivo **evidencias.doc** (na raiz), ou semelhante, e colocar o número da atividade, prints e informações necessárias, enviando todas em um único arquivo.
 
 ## O que será analisado
 
